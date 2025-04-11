@@ -1,0 +1,234 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": null},
+                "es": {"title": null},
+                "fr": {"title": null},
+                "zh": {"title": null}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-users",
+                    "fallbackFaIconColor": "#FF6384",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Family Time",
+                            "description": "Time spent with cherished loved ones.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "家族の時間",
+                            "description": "大切な人々と過ごす時間。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-tasks",
+                    "fallbackFaIconColor": "#36A2EB",
+                    "percentage": 29,
+                    "locales": {
+                        "en": {
+                            "title": "My Projects",
+                            "description": "Pursuing my creative endeavors.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "私のプロジェクト",
+                            "description": "私の創造的な取り組みを追求しています。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-couch",
+                    "fallbackFaIconColor": "#FFCD56",
+                    "percentage": 11,
+                    "locales": {
+                        "en": {
+                            "title": "Relaxing",
+                            "description": "Indulging in tranquility, unwinding the stresses of life.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "リラックス",
+                            "description": "静けさに浸り、生活のストレスを解消しています。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-book",
+                    "fallbackFaIconColor": "#C5B0FF",
+                    "percentage": 9,
+                    "locales": {
+                        "en": {
+                            "title": "Studying",
+                            "description": "Embarking on a continuous journey of learning.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "勉強",
+                            "description": "学び続ける絶え間ない旅を始めています。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-dumbbell",
+                    "fallbackFaIconColor": "#8EE3C5",
+                    "percentage": 17,
+                    "locales": {
+                        "en": {
+                            "title": "Exercising",
+                            "description": "Dedicating time to physical well-being.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "運動",
+                            "description": "身体的な健康に時間を捧げています。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-utensils",
+                    "fallbackFaIconColor": "#EEB79A",
+                    "percentage": 19,
+                    "locales": {
+                        "en": {
+                            "title": "Cooking",
+                            "description": "Creating culinary masterpieces.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "料理",
+                            "description": "料理の名作を創り出しています。",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Side pursuits"
+                },
+                "ja": {
+                    "title": "副業"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": false,
+                "small_icons": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-brush",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Graphic Design",
+                            "description": "Delving into the psychological impact of visual design and exploring how graphical elements can evoke emotions and influence perception. Passionate about understanding the creative process behind designing compelling, visually striking artwork.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "グラフィックデザイン",
+                            "description": "視覚デザインが人々の心理に与える影響を探求し、グラフィック要素が感情を引き起こし、認識にどのように影響を与えるかを理解しています。魅力的で視覚的に印象的なアートワークを作り出す創造的なプロセスに情熱を注いでいます。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-music",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Music",
+                            "description": "A long-time lover of music, playing the piano and exploring various genres. I have been honing my skills and deepening my appreciation for music for many years, constantly inspired by its ability to express emotions and tell stories.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "音楽",
+                            "description": "長年にわたりピアノを演奏し、さまざまなジャンルを探索してきた音楽愛好者です。音楽の感情表現や物語を語る力に常にインスパイアされ、スキルを磨きながらその魅力を深めています。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-book-open",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Anime & Manga",
+                            "description": "A dedicated fan of anime and manga, with a deep appreciation for both the art and storytelling. I've been immersed in the world of anime and manga since I was 10 years old, constantly discovering new series and exploring different genres and styles.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "アニメ & 漫画",
+                            "description": "アートとストーリーテリングの両方に深い愛情を持つアニメと漫画の熱心なファンです。10歳の頃からアニメと漫画の世界に浸り、新しいシリーズを発見したり、さまざまなジャンルやスタイルを探求したりしています。",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

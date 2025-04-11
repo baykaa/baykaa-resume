@@ -1,0 +1,157 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Welcome to *my resume!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                },
+                "ja": {
+                    "title": "私の履歴書へようこそ!*",
+                    "title_short": "ようこそ!",
+                    "description": null,
+                    "nav_label": "概要"
+                }
+            }
+        },
+
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Educational* Background",
+                    "title_short": null,
+                    "description": "A glimpse into my academic trajectory and accomplishments.",
+                    "nav_label": "Education"
+                },
+                "ja": {
+                    "title": "*学歴",
+                    "title_short": null,
+                    "description": "私の学業の歩みと成果をご紹介します。",
+                    "nav_label": "学歴"
+                }
+            }
+        },
+
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "ja": {
+                    "title": "スキル*セット",
+                    "title_short": null,
+                    "description": "これまでに習得・発展させてきた多様なスキルをご紹介します：",
+                    "nav_label": "スキル"
+                }
+            }
+        },
+
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "ja": {
+                    "title": "*職務*経歴",
+                    "title_short": null,
+                    "description": "これまでの職務経験とキャリアの歩みをご紹介します。",
+                    "nav_label": "職務経歴"
+                }
+            }
+        },
+
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/portfolio.json",
+            "faIcon": "fa-solid fa-folder-open",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "My *Portfolio*",
+                    "title_short": null,
+                    "description": "Explore a selection of my recent projects and creative works.",
+                    "nav_label": "Portfolio"
+                },
+                "ja": {
+                    "title": "私の*ポートフォリオ*",
+                    "title_short": null,
+                    "description": "最近のプロジェクトや創作作品の一部をご覧ください。",
+                    "nav_label": "ポートフォリオ"
+                }
+            }
+        },
+
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Hobbies* & Interests",
+                    "title_short": null,
+                    "description": "This is pretty much how I spend my free time:",
+                    "nav_label": "Hobbies"
+                },
+                "ja": {
+                    "title": "*趣味*・興味",
+                    "title_short": null,
+                    "description": "これが私の自由時間の過ごし方です：",
+                    "nav_label": "趣味"
+                }
+            }
+        },
+
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact* Me",
+                    "title_short": null,
+                    "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+                    "nav_label": "Contact"
+                },
+                "ja": {
+                    "title": "*お問い合わせ*",
+                    "title_short": null,
+                    "description": "ご連絡が必要な際は、どうぞお気軽にご連絡ください！",
+                    "nav_label": "お問い合わせ"
+                }
+            }
+        }
+    ]
+}

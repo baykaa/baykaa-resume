@@ -1,0 +1,71 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"year": 2026, "month": 3},
+                    "img": "images/places/logo-tiu.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Digital Business & Innovation | Computer Science",
+                            "description": "Graduated with a solid foundation in computer science while specializing in AI and ML. Acquired expertise in machine learning algorithms, deep thinking, and collaborative development thinking",
+                            "province": "Tokyo",
+                            "country": "Japan",
+                            "institution": "Tokyo International University",
+                            "tags": []
+                        },
+
+                        "ja": {
+                            "title": "デジタルビジネス & イノベーション | コンピュータサイエンス",
+                            "description": "AIと機械学習を専門とし、コンピュータサイエンスの確かな基礎を身につけました。機械学習アルゴリズム、深い思考、協働的な開発思考に関する専門知識を習得しました。",
+                            "province": "東京",
+                            "country": "日本",
+                            "institution": "東京国際大学",
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2017, "month": 9},
+                    "dateEnd": {"year": 2020, "month": 6},
+                    "img": "images/places/logo-shinemongol.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Bio-Technology Enthusiast",
+                            "description": "With a strong academic foundation in science, I specialized in biology and physics, cultivating a deep passion for bio-technology and its potential to transform industries and improve lives.",
+                            "province": "Ulaanbaatar",
+                            "country": "Mongolia",
+                            "institution": "New Mongol High School",
+                            "tags": []
+                        },
+
+                        "ja": {
+                            "title": "バイオテクノロジー愛好者",
+                            "description": "科学の強固な基盤を持ち、バイオロジーと物理学を専門に学びました。バイオテクノロジーに対する深い情熱を抱き、その技術が産業を変革し、生活を向上させる可能性に魅了されています。",
+                            "province": "ウランバートル",
+                            "country": "モンゴル",
+                            "institution": "ニュー・モンゴル高校",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

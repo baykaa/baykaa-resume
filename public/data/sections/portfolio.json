@@ -1,0 +1,79 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticlePortfolio",
+            "locales": {
+                "en": {
+                    "title": null,
+                    "category_all": "All",
+                    "category_productivity": "Productivity",
+                    "category_social": "Social",
+                    "category_health": "Health",
+                    "category_utilities": "Utilities"
+                },
+                "ja": {
+                    "title": null,
+                    "category_all": "すべて",
+                    "category_productivity": "仕事効率化",
+                    "category_social": "ソーシャル",
+                    "category_health": "健康",
+                    "category_utilities": "ユーティリティ"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/portfolio/project-rakuten-senior.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "health",
+                    "locales": {
+                        "en": {
+                            "title": "Rakuten Senior",
+                            "description": "<b>Rakuten Senior</b> is Rakuten's healthy lifestyle support app that supports the promotion of physical and mental health. Earn Rakuten points by walking every day!",
+                            "tags": ["app", "health", "fitness", "lifestyle"]
+                        },
+                        "ja": {
+                            "title": "楽天シニア",
+                            "description": "<b>楽天シニア</b>は、心身の健康促進をサポートする楽天の健康ライフスタイル支援アプリです。毎日歩いて楽天ポイントを獲得しましょう！",
+                            "tags": ["アプリ", "健康", "フィットネス", "ライフスタイル"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://apps.apple.com/jp/app/%E6%A5%BD%E5%A4%A9%E3%82%B7%E3%83%8B%E3%82%A2-%E6%AD%A9%E3%81%84%E3%81%A6%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%81%8C%E8%B2%AF%E3%81%BE%E3%82%8B%E6%AD%A9%E6%95%B0%E8%A8%88-%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%97%E3%83%AA/id1451690957", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store/apps/details?id=jp.co.rakuten.senior.app&pli=1", "stringKey": "view_on_google_play"}
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "img": "images/portfolio/project-healthcare.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": null,
+                    "category": "health",
+                    "locales": {
+                        "en": {
+                            "title": "Healthcare Rakuten",
+                            "description": "<b>Healthcare</b> is great health promotion app that lets you earn points by walking 5000 steps everyday.",
+                            "tags": ["app", "health", "fitness", "lifestyle"]
+                        },
+                        "ja": {
+                            "title": "ヘルスケア楽天",
+                            "description": "<b>ヘルスケア</b>は、毎日5,000歩歩くことでポイントが獲得できる、健康促進に最適なアプリです。",
+                            "tags": ["アプリ", "健康", "フィットネス", "ライフスタイル"]
+                        }
+                    },
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://apps.apple.com/app/id1585068047?mt=8", "stringKey": "view_on_app_store"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store/apps/details?id=jp.co.rakuten.health.android&hl=ja", "stringKey": "view_on_google_play"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

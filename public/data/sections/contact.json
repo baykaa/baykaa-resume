@@ -1,0 +1,49 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "locales": {
+                "en": {
+                    "contact_thank_you": "*Thanks* for the contact!",
+                    "contact_thank_you_description": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
+                    "contact_thank_you_reply": "The reply will be sent to your email address *{email}*."
+                },
+                "ja": {
+                    "contact_thank_you": "ご連絡ありがとうございます！",
+                    "contact_thank_you_description": "メッセージを受け取りました。近日中にご連絡いたします。お時間をいただきありがとうございます。お話しできるのを楽しみにしています！",
+                    "contact_thank_you_reply": "返信はあなたのメールアドレス *{email}* に送信されます。"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_js_public_key": "nNWfTl1-z8dNtRT_U",
+                "contact_js_service_id": "service_hhfqsx1",
+                "contact_js_template_id": "template_95fxyhe"
+            },
+            "items": null
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleContactOptions",
+            "locales": {
+                "en": {
+                    "title": "Or...",
+                    "description": "If you prefer, you can reach out to me through the following options:"
+                },
+                "ja": {
+                    "title": "または…",
+                    "description": "ご希望であれば、以下の方法でもご連絡いただけます："
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_ids": ["address", "phone", "email", "linkedin", "facebook", "github"]
+            },
+            "items": null
+        }
+    ]
+}

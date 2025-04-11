@@ -5,10 +5,7 @@
             "component": "ArticleThread",
             "locales": {
                 "en": {"title": "Awards"},
-                "ja": {"title": "受賞歴"},
-                "es": {"title": "Premios"},
-                "fr": {"title": "Prix"},
-                "zh": {"title": "奖项"}
+                "ja": {"title": "受賞歴"}
             },
             "settings": {
                 "order_items_by": "id",

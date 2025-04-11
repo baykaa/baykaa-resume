@@ -1,0 +1,74 @@
+{
+    "name": "Bayanmunkh Delgersaikhan",
+    "profilePictureUrl": "images/pictures/profile.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/baykaa'>Bayka Degi</a></strong>",
+            "role": "Full Stack Engineer"
+        },
+
+        "ja": {
+            "credits": "Hecho por <strong><a href='https://github.com/baykaa'>Bayka Degi</a></strong>",
+            "role": "フルスタックエンジニア"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "value": "Itabashi, Tokyo, 174-0075",
+            "valueShort": "Tokyo – Japan",
+            "faIcon": "fa-regular fa-map",
+            "href": null
+        },
+
+        {
+            "id": "email",
+            "value": "degibayanmunkh@gmail.com",
+            "valueShort": "degibayanmunkh@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:degibayanmunkh@gmail.com"
+        },
+
+        {
+            "id": "facebook",
+            "value": "Баяка Баянмөнх",
+            "valueShort": "Баяка Баянмөнх",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@baykaa",
+            "valueShort": "@baykaa",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/baykaa"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@bayka15",
+            "valueShort": "@bayka15",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@bayanmunkh-delgersaikhan",
+            "valueShort": "@bayanmunkh-delgersaikhan",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/bayanmunkh-delgersaikhan/"
+        },
+
+        {
+            "id": "phone",
+            "value": "+81 (080) 6179-2832",
+            "valueShort": "(080) 6179-2832",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:080-6179-2832"
+        }
+    ]
+}

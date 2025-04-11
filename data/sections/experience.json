@@ -1,0 +1,72 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2021, "month": 3},
+                    "dateEnd": {"year": 2022, "month": 7},
+                    "img": "images/places/logo-avtamata.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "UX Designer",
+                            "description": "Contributed to designing intuitive and user-friendly web application interfaces, creating engaging and seamless user experiences. Collaborated closely with cross-functional teams and stakeholders to ensure designs aligned with business goals and user needs.",
+                            "province": "Ulaanbaatar",
+                            "country": "Mongolia",
+                            "institution": "Accumulus Edu",
+                            "tags": ["Figma", "Wireframing", "Prototyping", "Responsive Design", "User Research"]
+                        },
+
+                        "ja": {
+                            "title": "UXデザイナー",
+                            "description": "直感的で使いやすいWebアプリケーションのインターフェース設計に貢献し、魅力的でシームレスなユーザー体験を創出しました。ビジネス目標とユーザーのニーズに合致するデザインを実現するため、部門横断的なチームや関係者と密に連携しました。",
+                            "province": "ウランバートル",
+                            "country": "モンゴル",
+                            "institution": "Accumulus Edu",
+                            "tags": ["Figma", "ワイヤーフレーム作成", "プロトタイピング", "レスポンシブデザイン", "ユーザーリサーチ"]
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 2},
+                    "dateEnd": {"year": 2025, "month": 8},
+                    "img": "images/places/logo-connect.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "description": "Contributed to the development of the 'Rakuten Senior' project by working on both front-end and back-end tasks. Collaborated closely with a team of 60 engineers, enhancing system performance and user experience through full-stack development and efficient communication. Played a key role in delivering a smooth and reliable digital service for senior users.",
+                            "province": "Tokyo",
+                            "country": "Japan",
+                            "institution": "Connect",
+                            "tags": ["Laravel", "Vue.js", "MySQL", "Scrum Agile Development"]
+                        },
+
+                        "ja": {
+                            "title": "フルスタック開発者",
+                            "description": "Connect株式会社にて『Rakuten Senior』プロジェクトに携わり、フロントエンドとバックエンドの両方の開発を担当しました。60人のエンジニアチームと密に連携し、システムパフォーマンスとユーザー体験の向上に貢献。シニア向けのデジタルサービスを円滑かつ信頼性の高い形で提供するために重要な役割を果たしました。",
+                            "province": "東京",
+                            "country": "日本",
+                            "institution": "Connect株式会社",
+                            "tags": ["Laravel", "Vue.js", "MySQL", "スクラムアジャイル開発"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

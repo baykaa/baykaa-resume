@@ -1,0 +1,41 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleProfile",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_list_ids": ["address", "email", "phone"],
+                "contact_circles_ids": ["instagram", "facebook", "linkedin", "github"]
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "locales": {
+                        "en": {
+                            "description": "I'm a Digital Business and Computer Science student with hands-on experience in web development, data analysis, and AI-driven solutions. I thrive at the intersection of technology and innovation, building user-focused products and contributing to projects that improve lives—especially for underserved communities like the visually impaired."
+                        },
+                        "ja": {
+                            "description": "私はデジタルビジネスとコンピュータサイエンスを学ぶ学生であり、ウェブ開発、データ分析、AIを活用したソリューションに実践的な経験があります。テクノロジーとイノベーションの交差点で活躍し、ユーザー中心のプロダクトを構築しながら、特に視覚障害者のような支援が必要なコミュニティの生活を向上させるプロジェクトに貢献することに情熱を持っています。"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "locales": {
+                        "en": {
+                            "description": "I believe that technology should be inclusive and empowering, creating equal opportunities for everyone—especially those with disabilities. My dream is to develop innovative digital solutions that support the visually impaired and contribute to building a more accessible and compassionate world. Let’s collaborate to turn meaningful ideas into real impact!"
+                        },
+
+                        "ja": {
+                            "description": "私は、テクノロジーは誰にとっても包括的で力を与えるものであるべきだと信じています。特に障害を持つ人々にも平等な機会を提供することが重要です。私の夢は、視覚障害者を支援する革新的なデジタルソリューションを開発し、よりアクセスしやすく思いやりのある社会の構築に貢献することです。共にアイデアを現実にし、社会に本当のインパクトを与えましょう！"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

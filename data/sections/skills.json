@@ -1,0 +1,464 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-roller",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Development",
+                            "description": "Experienced in both front-end and back-end web development, utilizing modern frameworks and technologies to enhance user interfaces and improve overall functionality.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "ウェブ開発",
+                            "description": "フロントエンドおよびバックエンドのウェブ開発に熟練しており、最新のフレームワークと技術を活用してユーザーインターフェースを強化し、全体的な機能性を向上させます。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-mobile-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Data Science & Analysis",
+                            "description": "Proficient in analyzing large datasets, employing statistical methods, and utilizing Python for tasks like data cleaning, modeling, and visualizing insights to derive actionable conclusions.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "データサイエンスと分析",
+                            "description": "大規模なデータセットの分析、統計的手法の活用、Pythonを使用したデータクリーニング、モデリング、可視化を行い、実用的な結論を導き出します。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-vector-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Mobile Technologies & IoT",
+                            "description": "Knowledgeable in the latest mobile technologies and Internet of Things (IoT) applications, with a focus on how these technologies can be integrated into business models to drive innovation.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "モバイル技術とIoT",
+                            "description": "最新のモバイル技術とモノのインターネット（IoT）アプリケーションに精通しており、これらの技術がビジネスモデルに統合され、イノベーションを推進する方法に注力しています。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-check-double",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI & Machine Learning",
+                            "description": "Passionate about AI-driven solutions, with a particular interest in machine learning and its application in enhancing accessibility, such as AI-powered screen readers for the visually impaired.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "AIと機械学習",
+                            "description": "AI駆動のソリューションに情熱を持ち、特に視覚障害者向けのAIによるスクリーンリーダーのようなアクセシビリティ向上における機械学習の応用に関心を持っています。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-expand-arrows-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Project Management",
+                            "description": "Able to contribute effectively to cross-functional teams, managing time, tasks, and resources to ensure projects, like Rakuten Senior, are completed efficiently and meet both deadlines and quality standards.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "プロジェクトマネジメント",
+                            "description": "クロスファンクショナルチームに効果的に貢献し、時間、タスク、リソースを管理してプロジェクト（例：Rakuten Senior）が効率的に完了し、期限と品質基準を満たすようにします。",
+                            "level": null
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Digital Business Innovation",
+                            "description": "Expertise in leveraging digital technologies to create innovative solutions, particularly in the context of business models, products, and services for emerging markets and industries.",
+                            "level": null
+                        },
+                        "ja": {
+                            "title": "デジタルビジネスイノベーション",
+                            "description": "新興市場や産業におけるビジネスモデル、製品、サービスに特化して、デジタル技術を活用して革新的なソリューションを生み出す専門知識があります。",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Frontend Stack"},
+                "es": {"title": "Stack de Frontend"},
+                "fr": {"title": "Stack Frontend"},
+                "zh": {"title": "前端技术栈"}
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2022, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "description": "Experienced with HTML5 elements and features."
+                        },
+                        "ja": {
+                            "title": "HTML 5",
+                            "description": "HTML5の要素と機能に精通しています。"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2021, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3",
+                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
+                        },
+                        "es": {
+                            "title": "CSS 3",
+                            "description": "Experto en técnicas avanzadas de CSS3 como flexbox y animaciones."
+                        },
+                        "fr": {
+                            "title": "CSS 3",
+                            "description": "Compétent dans les techniques avancées CSS3 comme flexbox et animations."
+                        },
+                        "zh": {
+                            "title": "CSS 3",
+                            "description": "擅长使用CSS3高级技术，如flexbox和动画。"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2022, "month": 9},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
+                        },
+                        "ja": {
+                            "title": "Javascript",
+                            "description": "動的でインタラクティブなウェブアプリケーションのためのJavaScriptに熟練しています。"
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2017, "month": 3},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "percentage": 100,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": "Capable of building and deploying complex Vue applications."
+                        },
+                        "ja": {
+                            "title": "Vue 3",
+                            "description": "Vueアプリケーションの構築と展開が可能です."
+                        }
+                    }
+                },
+
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2025, "month": 3},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-android",
+                    "fallbackFaIconColor": null,
+                    "percentage": 10,
+                    "locales": {
+                        "en": {
+                            "title": "Kotlin",
+                            "description": "Experienced in building backbone system with Kotlin, using hooks and component-based architecture."
+                        },
+                        "ja": {
+                            "title": "Kotlin",
+                            "description": "Kotlinを使用し、フックやコンポーネントベースのアーキテクチャを活用してバックボーンシステムの構築に経験があります。"
+                        }
+                    }
+                },
+
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2022, "month": 11},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Nuxt.js",
+                            "description": ""
+                        },
+                        "ja": {
+                            "title": "Nuxt.js",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Backend Stack"},
+                "ja": {"title": "バックエンドスタック"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 65,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                        },
+                        "ja": {
+                            "title": "MySQL",
+                            "description": "MySQLデータベースの管理に熟練しており、スキーマ設計やクエリ最適化を含みます。"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 4},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+                        },
+                        "ja": {
+                            "title": "PHP",
+                            "description": "PHPを使用した動的ウェブアプリケーションの構築に経験があり、サーバーサイドロジックやデータベース統合を含みます。"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2022, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": null,
+                    "percentage": 55,
+                    "locales": {
+                        "en": {
+                            "title": "Laravel",
+                            "description": ""
+                        },
+                        "ja": {
+                            "title": "Laravel",
+                            "description": ""
+                        }
+                    }
+                },
+
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2023, "month": 1},
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIconColor": null,
+                    "percentage": 40,
+                    "locales": {
+                        "en": {
+                            "title": "NodeJS",
+                            "description": ""
+                        },
+                        "ja": {
+                            "title": "NodeJS",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {"title": "Languages"},
+                "ja": {"title": "言語"},
+                "es": {"title": "Idiomas"},
+                "fr": {"title": "Langues"},
+                "zh": {"title": "语言"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/mgl.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Mongolia",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "ja": {
+                            "title": "モンゴル語",
+                            "description": "母国語話者で、優れたコミュニケーション能力とライティングスキルを持っています。",
+                            "level": "母国語"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Fluent in both spoken and written English; confident in professional communication.",
+                            "level": "Fluent"
+                        },
+                        "ja": {
+                            "title": "英語",
+                            "description": "話し言葉と書き言葉の両方で流暢に使いこなし、プロフェッショナルなコミュニケーションに自信があります。",
+                            "level": "流暢"
+                        }
+                    }
+                },
+
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": "images/flags/ja.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Japanese",
+                            "description": "Fluent in both spoken and written Japanese; confident in professional communication.",
+                            "level": "Fluent"
+                        },
+                        "ja": {
+                            "title": "日本語",
+                            "description": "話し言葉と書き言葉の両方で流暢に使いこなし、プロフェッショナルなコミュニケーションに自信があります。",
+                            "level": "流暢"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -190,17 +190,9 @@
                             "title": "CSS 3",
                             "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
                         },
-                        "es": {
+                        "ja": {
                             "title": "CSS 3",
-                            "description": "Experto en técnicas avanzadas de CSS3 como flexbox y animaciones."
-                        },
-                        "fr": {
-                            "title": "CSS 3",
-                            "description": "Compétent dans les techniques avancées CSS3 comme flexbox et animations."
-                        },
-                        "zh": {
-                            "title": "CSS 3",
-                            "description": "擅长使用CSS3高级技术，如flexbox和动画。"
+                            "description": "フレックスボックスやアニメーションなどの高度な CSS3 テクニックに精通しています。."
                         }
                     }
                 },

@@ -14,7 +14,7 @@
                     "nav_label": "About"
                 },
                 "ja": {
-                    "title": "私の履歴書へようこそ!*",
+                    "title": "*私の履歴書へようこそ!*",
                     "title_short": "ようこそ!",
                     "description": null,
                     "nav_label": "概要"
@@ -36,7 +36,7 @@
                     "nav_label": "Education"
                 },
                 "ja": {
-                    "title": "*学歴",
+                    "title": "*学歴*",
                     "title_short": null,
                     "description": "私の学業の歩みと成果をご紹介します。",
                     "nav_label": "学歴"
@@ -58,7 +58,7 @@
                     "nav_label": "Skills"
                 },
                 "ja": {
-                    "title": "スキル*セット",
+                    "title": "*スキル*セット",
                     "title_short": null,
                     "description": "これまでに習得・発展させてきた多様なスキルをご紹介します：",
                     "nav_label": "スキル"
